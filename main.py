@@ -164,3 +164,5 @@ converter.print_dfa()
 
 # DFA'yı görselleştir
 converter.visualize_dfa()
+
+print("selam")
