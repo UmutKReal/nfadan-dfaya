@@ -166,3 +166,5 @@ converter.print_dfa()
 converter.visualize_dfa()
 
 print("selam")
+
+print("2.commit atılacak kısım")
